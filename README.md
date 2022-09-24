@@ -1,2 +1,2 @@
 # TimerFin
- Petit Projet pour voir quand est la fin de la formation
+ Petit projet simple qui est un compteur de temps restant pour une date en jours heures minutes secondes
