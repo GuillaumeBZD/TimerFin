@@ -1,0 +1,52 @@
+body {
+  background-color: black;
+  font-family: "Bungee Spice", cursive;
+  background-image: url(img.jpg);
+  box-sizing: border-box;
+  background-size: cover;
+}
+
+article {
+  margin-top: 250px;
+}
+
+#ok {
+  display: flex;
+  flex-direction: column;
+}
+
+h1 {
+  font-weight: bold;
+  font-size: 5rem;
+  width: 100%;
+  text-align: center;
+  text-shadow: 7px 8px 3px;
+}
+
+.timer {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+dl {
+  list-style: none;
+  display: flex;
+}
+
+dd {
+  font-size: 34px;
+  text-align: center;
+}
+
+#jours,
+#heures,
+#minutes,
+#secondes {
+  font-size: 60px;
+}
+
+p {
+  margin: 0;
+  text-shadow: 7px 8px 3px;
+}
