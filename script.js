@@ -1,5 +1,5 @@
 // date de l'evenement souhaité
-const dateDeFin = "24 Nov 2022";
+const dateDeFin = "24 Nov 2023";
 
 const joursEL = document.getElementById("jours");
 const heuresEL = document.getElementById("heures");
